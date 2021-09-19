@@ -13,6 +13,5 @@
 - Statistical R
 
 ![5kepT1c4L's GitHub stats](https://github-readme-stats.vercel.app/api?username=5kepT1c4L&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5kepT1c4L&layout=compact)](https://github.com/5kepT1c4L/github-readme-stats)
 
 
