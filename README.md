@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**5kepT1c4L/5kepT1c4L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Myself
 
-Here are some ideas to get you started:
+- I have a strong passion for *Computer Science*
+- I am currently learning webscraping with the *Selenium* and *BeautifulSoup* libraries
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Plan on what to learn next
+
+- Front-end + Back-end web development
+- MATLAB
+- More data analysis
+- Statistical R
