@@ -3,7 +3,7 @@
 ## About Myself
 
 - I have a strong passion for *Computer Science*
-- I am currently learning webscraping with the *Selenium* and *BeautifulSoup* libraries
+- I am currently learning webscraping with the *Selenium* and *BeautifulSoup* libraries along with C++
 
 ## My Plan on what to learn next
 
