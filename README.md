@@ -3,12 +3,11 @@
 ## About Myself
 
 - I have a strong passion for *Computer Science*
-- I am currently learning python's OpenCV library in preperation for my Junior year ISEF computer visions project
+- I am currently learning *Machine Learning* with Python. (Classes, Neural Networks, etc..)
 
 ## My Plan on what to learn next
 
-- OpenCV library
-- Statistical R
+- Audio recognition with Python
 
 ![5kepT1c4L's GitHub stats](https://github-readme-stats.vercel.app/api?username=5kepT1c4L&show_icons=true&theme=radical)
 
